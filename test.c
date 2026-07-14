@@ -23,7 +23,7 @@ void print_weekly_protocol() {
     printf("- This increases blood flow, delivering nutrients directly to the hair follicle.\n");
 }
 
-int main() {
+int main(void) {
     int choice;
 
     printf("==================================================\n");
